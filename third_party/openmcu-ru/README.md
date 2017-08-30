@@ -7,7 +7,7 @@
 al OpenMCU with many new features.Server runs on Linux, Windows and FreeBSD.
 
 ### 2 Features
-<p>**OpenMCU-ru** has the following features:</p>
+   **OpenMCU-ru** has the following features:
 - [x] configuration and control via the web interface on port 1420 (http://localhost:1420)
 - [x] supported interface languages: English, Russian, Ukrainian, Japanese
 - [x] does not require codec hardware to operate
@@ -22,4 +22,4 @@ al OpenMCU with many new features.Server runs on Linux, Windows and FreeBSD.
 - [x] conference translation as web stream#
 
 ### 3 Install and build
-https://wiki.videoswitch.ru/en/install/src_linux
+   https://wiki.videoswitch.ru/en/install/src_linux
