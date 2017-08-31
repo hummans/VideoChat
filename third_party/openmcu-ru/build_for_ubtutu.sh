@@ -5,7 +5,7 @@ apt-get install \
         libvpx-dev libx264-dev libav-tools libavcodec-dev \
         libavutil-dev libsamplerate0-dev libopus-dev
 
-#STEOP 2: Clone Source Codes
+#STEOP 2: Clone Source Files
 OPENMCU_RU_ROOT=openmcu-ru
 if [ ! -d ${OPENMCU_RU_ROOT} ]; then 
 git clone git://github.com/muggot/openmcu.git ${OPENMCU_RU_ROOT}

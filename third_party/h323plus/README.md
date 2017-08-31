@@ -2,7 +2,7 @@
    **OpenH323Plus:** build scripts for third_party/h323plus/build_ptlib_v2_12.sh
    **OpenH323Plus:** build scripts for third_party/h323plus/build_h323plus_v1_26.sh
 
-More Details for OpenH323Plus(Stabl)
+More Details for OpenH323Plus
 - [x] http://www.h323plus.org/
 - [x] http://www.h323plus.org/standards/
 - [x] http://www.h323plus.org/api/v1_26_0/annotated.html
