@@ -12,11 +12,12 @@ opal$ git clone git://git.code.sf.net/p/opalvoip/ptlib
 API documentation: http://files.opalvoip.org/docs/opal-v3_14/
 
 OPAL a Open Source class library for the development of applications that wish to use the SIP and H.323 protocols for multi-media communications over packet based networks.Which is your typical layered approach to a system. The application layer is presented with a unified model for making calls over whatever underlying protocol or hardware by the so the calls can be placed and media flow handled in, as much as possible, an identical manner.
-First Header | Second Header
+
+LayerName | ClassName
 ------------ | -------------
 OPAL-api | OpalManager/OpalEndPoint/OpalCall/OpalConnection/OpalMediaFormat
 OPAL-api | OpalMediaStream/OpalTranscoder/OpalListener/OpalTransport
-EndPoints | H323EndPoint/SIPEndPoint/OpalRTPEndP
+EndPoints | H323EndPoint/SIPEndPoint/OpalRTPEndPoint
 I/O | RTP/Packets Audio/Video Camera
 
 You can clone opal_v3.16  use git.
