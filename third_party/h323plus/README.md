@@ -17,5 +17,7 @@ PTLib (req)    |2.12.8|2013-11-04|--
 
 
 ### 3 Build and Install
-- [x] Read build scripts for third_party/h323plus/build_ptlib_v2_12.sh
-- [x] Read build scripts for third_party/h323plus/build_h323plus_v1_26.sh
+- [x] Read build scripts for third_party/h323plus/build_ptlib_for_linux.sh
+- [x] Read build scripts for third_party/h323plus/build_h323plus_for_linux.sh
+- [ ] Read build scripts for third_party/h323plus/build_ptlib_for_android.sh
+- [ ] Read build scripts for third_party/h323plus/build_h323plus_for_android.sh

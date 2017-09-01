@@ -34,5 +34,7 @@ More Details for OPAL-Project
 
 
 ### 4 Build and Install
-- [x] Read build scripts for third_party/opal/build_pwlib_2.x.sh
-- [x] Read build scripts for third_party/opal/build_opal_v3.x.sh
+- [x] Read build scripts for third_party/opal/build_pwlib_for_linux.sh
+- [x] Read build scripts for third_party/opal/build_opal_for_linux.sh
+- [ ] Read build scripts for third_party/opal/build_pwlib_for_android.sh
+- [ ] Read build scripts for third_party/opal/build_opal_for_android.sh
