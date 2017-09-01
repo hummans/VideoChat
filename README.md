@@ -1,6 +1,7 @@
 ### 1 Introduction
    **CaseDev_H323:**  A Simple Android OpenH323Plus Client
-   Status: Planing
+   
+   Status: Planing and Developping
 
 ### 2 Dependencies list
    **CaseDev_H323** has the following Dependencies:
