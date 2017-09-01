@@ -16,5 +16,5 @@ fi
 #STEP 3: Config and Build
 echo "STEP 3: Config and Build"
 cd ${PTLIB_ROOT}
-./configure
+./configure --prefix=${PWD}/../../built_libs_linux/ptlib
 make; make install

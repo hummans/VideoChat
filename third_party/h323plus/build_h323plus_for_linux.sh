@@ -18,6 +18,11 @@ fi
 #STEP 3: config and build
 echo "STEP 3: Config and Build ${H323PLUS_ROOT}"
 cd ${H323PLUS_ROOT}
+ls -al ${PWD}/../../built_libs_linux/ptlib/share/ptlib/make
+export PTLIB_CFLAGS=' -DP_64BIT -DPTRACING=2 -D_REENTRANT -fno-exceptions '
+export PKG_CONFIG_PATH=${PWD}/../../built_libs_linux/ptlib/lib/pkgconfig
+export PTLIBDIR=${PWD}/../../built_libs_linux/ptlib/share/ptlib
+echo ${PT_LIBDIR}
 ./configure
 make; make install
 
