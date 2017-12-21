@@ -1,10 +1,10 @@
 ### 1 Introduction
-   **CaseDev_H323:**  A Simple Android OpenH323Plus Client
+   **MTAVIPClient**  MTAVIP Client Supports H323 and SIP protocols. MTAVIP means Audio/Video over IP networkd.
    
    Status: Planing and Developping
 
 ### 2 Dependencies list
-   **CaseDev_H323** has the following Dependencies:
+   **MTAVIPClient** has the following Dependencies:
 - [x] PTLib (http://opalvoip.org/)
 - [x] H323Plus (http://h323plus.org/)
 - [x] OPAL(http://wiki.opalvoip.org/) --NotUsed, for Testing
