@@ -57,15 +57,15 @@ SIP协议中的用户代理UA(User Agent)是一个逻辑实体，作用等同于
 H.323信令信息是符合ASN.1的二进制编码，需要特殊的编解码器。SIP信息是基于文本的，采用ISO10646以UTF-8编码，易于编码实现和调试。
 
 ## 5 参考文献
-H.323 Forum
-ITU H.323 Recommendation
-OpenH323 Project
-H.323 Call Flow (pdf)
-GnomeMeeting
-Comparision of SIP and H.323 (pdf)
-SIP vs H.323
-A Primer on H.323
-Free H.323
-IBM J323 Engine
-OpenGatekeeper
-Discussion Forum
+H.323 Forum  
+ITU H.323 Recommendation  
+OpenH323 Project  
+H.323 Call Flow (pdf)  
+GnomeMeeting  
+Comparision of SIP and H.323 (pdf)  
+SIP vs H.323  
+A Primer on H.323  
+Free H.323  
+IBM J323 Engine  
+OpenGatekeeper  
+Discussion Forum  
