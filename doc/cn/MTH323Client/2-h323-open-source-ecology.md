@@ -28,22 +28,16 @@ OpenMCU-ru项目:OpenMCU-ru是全功能的H.323，SIP和RTSP的开源多点控�
 | 项目名称 | 项目地址 | 项目定位 |
 | :--- | :--- | :--- |
 | H323Plus | [http://www.h323plus.org](http://www.h323plus.org) | 全功能的H.323协议 |
-| ffmepg 全功能的开源视频编辑器 | [http://ffmpeg.org](http://ffmpeg.org) |  |
-| OpenMeeting项目 java视频会议首选 | [http://code.google.com/p/openmeetings](http://code.google.com/p/openmeetings) |  |
-| lib |  |  |
-
-项目定位 \| 项目地址  
----\|---  
-全部功能的H.323协议 \| [http://www.h323plus.org](http://www.h323plus.org)  
-ffmpeg项目最全面的开源编码器 \| [http://ffmpeg.org/download.html](http://ffmpeg.org/download.html)  
-webrtc项目基于浏览器的实时通信开源项目 \| [http://www.webrtc.org](http://www.webrtc.org)  
-OpenMeetings项目java开发视频会议的首选 \| [http://code.google.com/p/openmeetings/downloads/list](http://code.google.com/p/openmeetings/downloads/list)  
-live555项目流媒体开源项目 \| [http://www.live555.com/](http://www.live555.com/)  
-OPAL项目实现SIP协议的首选 \|[http://sourceforge.net/projects/opalvoip/files/](http://sourceforge.net/projects/opalvoip/files/)  
-x264项目应用最广的H.264编码器 \| [http://www.x264.nl/](http://www.x264.nl/)  
-Speex项目音频领域最著名的开源项目，窄带和宽带都有很好的语音质量 \| [http://www.speex.org/downloads/](http://www.speex.org/downloads/)  
-JRTPLIB项目C++跨平台的 RTP传输开源项目，RTP传输必备库 \| [http://research.edm.uhasselt.be/~jori/page/index.php?n=CS.Jrtplib](http://research.edm.uhasselt.be/~jori/page/index.php?n=CS.Jrtplib)  
-XVid 项目MPEG4编码器开源项目 \| [http://www.xvid.org](http://www.xvid.org)
+| ffmepg  | [http://ffmpeg.org](http://ffmpeg.org) | 全功能的开源视频编辑器 |
+| OpenMeeting | [http://code.google.com/p/openmeetings](http://code.google.com/p/openmeetings) | java视频会议首选 |
+| webrtc | [http://www.webrtc.org](http://www.webrtc.org)   | 基于浏览器的实时通信开源项目 |
+| live555 | [http://www.live555.com/](http://www.live555.com/)   | 流媒体开源项目 |
+| OPAL | [http://sourceforge.net/projects/opalvoip](http://sourceforge.net/projects/opalvoip)     | 实现SIP协议的首选 |
+| x264 | [http://www.x264.nl/](http://www.x264.nl/) | 应用最广的H.264编码器 |
+| Speex | [http://www.speex.org](http://www.speex.org) | 音频领域最著名的开源项目 |
+| JRTPLIB | [https://github.com/j0r1/JRTPLIB](https://github.com/j0r1/JRTPLIB) | C++跨平台的 RTP传输开源项目 |
+| EMIPLIB | [https://github.com/j0r1/EMIPLIB](https://github.com/j0r1/EMIPLIB) | EDM Media over IP library(大学研究项目) |
+| xvid | [http://www.xvid.org](http://www.xvid.org) | MPEG4编码器开源项目 |
 
 ## 参考文献
 
