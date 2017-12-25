@@ -1,37 +1,53 @@
 # Open Source Ecology for H323 Video Conference
+
 ## 1 H323的Terminal
-H323Plus项目：该项目实现了H323协议族，为基于IP网络的多媒体通信奠定了坚实基础，还扩展了323功能，增加了NAT / FW穿越解决方案。H323Plus(V1.26.8)项目依赖PTLib(V2.12.8)项目。  
-项目地址：https://github.com/willamowius/h323plus  
-API文档：https://www.h323plus.org/api/v1_26_0/index.html  
+
+H323Plus项目：该项目实现了H323协议族，为基于IP网络的多媒体通信奠定了坚实基础，还扩展了323功能，增加了NAT / FW穿越解决方案。H323Plus\(V1.26.8\)项目依赖PTLib\(V2.12.8\)项目。  
+项目地址：[https://github.com/willamowius/h323plus](https://github.com/willamowius/h323plus)  
+API文档：[https://www.h323plus.org/api/v1\_26\_0/index.html](https://www.h323plus.org/api/v1_26_0/index.html)
 
 ## 2 H323的GateKeeper
-GnuGk Gatekeeper项目:GnuGk是一个H.323网守,它构成了IP电话(VOIP)或视频会议系统的必要组件之一。GNU Gatekeeper具有以下特性：支持跨平台支持多种操作系统;支持多种数据库系统;支持NAT穿越(H.460.17，H.460.18，H.460.19，H.460.23和H.460.24)支持完整的H.323代理;CTI功能(例如VOIP呼叫中心，呼叫转移);支持H.235安全(密码认证和H.235.6媒体加密)  
-项目地址：https://www.gnugk.org/  
+
+GnuGk Gatekeeper项目:GnuGk是一个H.323网守,它构成了IP电话\(VOIP\)或视频会议系统的必要组件之一。GNU Gatekeeper具有以下特性：支持跨平台支持多种操作系统;支持多种数据库系统;支持NAT穿越\(H.460.17，H.460.18，H.460.19，H.460.23和H.460.24\)支持完整的H.323代理;CTI功能\(例如VOIP呼叫中心，呼叫转移\);支持H.235安全\(密码认证和H.235.6媒体加密\)  
+项目地址：[https://www.gnugk.org/](https://www.gnugk.org/)
 
 ## 3 H323的MCU
-OpenMCU-ru项目:OpenMCU-ru是全功能的H.323，SIP和RTSP的开源多点控制单元，具有以下特性：支持通过端口1420(http://localhost:1420)上的Web界面进行配置和控制;支持多国语言;支持的协议:H.323，SIP;支持的视频编解码器：H.261，H.263，H.263 +，H.264，VP8;支持的音频编解码器:G.711，G.722，G723.1，G.726，G.729，iLBC，Speex，SILK，OPUS;支持多个不同的会议可以同时进行，使用不同的“房间”;支持实时显示呼叫统计;支持从MCU发起呼叫到远程终端;支持会议翻译为网络流。  
-项目地址：https://github.com/muggot/openmcu  
-项目文档：https://wiki.videoswitch.ru/en/start  
+
+OpenMCU-ru项目:OpenMCU-ru是全功能的H.323，SIP和RTSP的开源多点控制单元，具有以下特性：支持通过端口1420\([http://localhost:1420\)上的Web界面进行配置和控制;支持多国语言;支持的协议:H.323，SIP;支持的视频编解码器：H.261，H.263，H.263](http://localhost:1420%29上的Web界面进行配置和控制;支持多国语言;支持的协议:H.323，SIP;支持的视频编解码器：H.261，H.263，H.263) +，H.264，VP8;支持的音频编解码器:G.711，G.722，G723.1，G.726，G.729，iLBC，Speex，SILK，OPUS;支持多个不同的会议可以同时进行，使用不同的“房间”;支持实时显示呼叫统计;支持从MCU发起呼叫到远程终端;支持会议翻译为网络流。  
+项目地址：[https://github.com/muggot/openmcu](https://github.com/muggot/openmcu)  
+项目文档：[https://wiki.videoswitch.ru/en/start](https://wiki.videoswitch.ru/en/start)
 
 ## 4 H323的Gateway
+
 思科和华为拥有全功能的H323的Gateway产品线。
 
 ## 5 其他开源项目
-在视频会议领域拥有大量的开源项目，这些开源项目有些聚焦于完整的视频会议生态，有些聚焦于在视频会议控制协议，有些聚焦于流媒体传输，有些聚焦于音视频编解码。适当使用合理参考，能够提升我们的开发效率。  
-项目定位 | 项目地址  
----|---  
-全部功能的H.323协议 | http://www.h323plus.org  
-ffmpeg项目最全面的开源编码器 | http://ffmpeg.org/download.html  
-webrtc项目基于浏览器的实时通信开源项目 | http://www.webrtc.org  
-OpenMeetings项目java开发视频会议的首选 | http://code.google.com/p/openmeetings/downloads/list  
-live555项目流媒体开源项目 | http://www.live555.com/  
-OPAL项目实现SIP协议的首选 |http://sourceforge.net/projects/opalvoip/files/  
-x264项目应用最广的H.264编码器 | http://www.x264.nl/  
-Speex项目音频领域最著名的开源项目，窄带和宽带都有很好的语音质量 | http://www.speex.org/downloads/  
-JRTPLIB项目C++跨平台的 RTP传输开源项目，RTP传输必备库 | http://research.edm.uhasselt.be/~jori/page/index.php?n=CS.Jrtplib  
-XVid 项目MPEG4编码器开源项目 | http://www.xvid.org  
+
+在视频会议领域拥有大量的开源项目，这些开源项目有些聚焦于完整的视频会议生态，有些聚焦于在视频会议控制协议，有些聚焦于流媒体传输，有些聚焦于音视频编解码。适当使用合理参考，能够提升我们的开发效率。
+
+| 项目名称 | 项目地址 | 项目定位 |
+| :--- | :--- | :--- |
+| H323Plus | [http://www.h323plus.org](http://www.h323plus.org) | 全功能的H.323协议 |
+| ffmepg 全功能的开源视频编辑器 | [http://ffmpeg.org](http://ffmpeg.org) |  |
+| OpenMeeting项目 java视频会议首选 | [http://code.google.com/p/openmeetings](http://code.google.com/p/openmeetings) |  |
+| lib |  |  |
+
+项目定位 \| 项目地址  
+---\|---  
+全部功能的H.323协议 \| [http://www.h323plus.org](http://www.h323plus.org)  
+ffmpeg项目最全面的开源编码器 \| [http://ffmpeg.org/download.html](http://ffmpeg.org/download.html)  
+webrtc项目基于浏览器的实时通信开源项目 \| [http://www.webrtc.org](http://www.webrtc.org)  
+OpenMeetings项目java开发视频会议的首选 \| [http://code.google.com/p/openmeetings/downloads/list](http://code.google.com/p/openmeetings/downloads/list)  
+live555项目流媒体开源项目 \| [http://www.live555.com/](http://www.live555.com/)  
+OPAL项目实现SIP协议的首选 \|[http://sourceforge.net/projects/opalvoip/files/](http://sourceforge.net/projects/opalvoip/files/)  
+x264项目应用最广的H.264编码器 \| [http://www.x264.nl/](http://www.x264.nl/)  
+Speex项目音频领域最著名的开源项目，窄带和宽带都有很好的语音质量 \| [http://www.speex.org/downloads/](http://www.speex.org/downloads/)  
+JRTPLIB项目C++跨平台的 RTP传输开源项目，RTP传输必备库 \| [http://research.edm.uhasselt.be/~jori/page/index.php?n=CS.Jrtplib](http://research.edm.uhasselt.be/~jori/page/index.php?n=CS.Jrtplib)  
+XVid 项目MPEG4编码器开源项目 \| [http://www.xvid.org](http://www.xvid.org)
 
 ## 参考文献
+
 [1 The Standard in Open Source H.323](https://www.h323plus.org/)  
-[2 Web Real-Time Communication(WebRTC)](https://www.webrtc.org/)  
-[3 a cross-platform solution to stream audio and video(ffmpeg)](http://www.ffmpeg.org/)  
+[2 Web Real-Time Communication\(WebRTC\)](https://www.webrtc.org/)  
+[3 a cross-platform solution to stream audio and video\(ffmpeg\)](http://www.ffmpeg.org/)
+
