@@ -1,4 +1,9 @@
 # H245 Workflow for Control Signal
+
+> Webcome to project:[MTAVIPClient](https://www.github.com/MTMediaDev/MTAVIPClient); Expecting you to join!
+> **MTAVIPClient** supports H323 and SIP protocols.   
+> **MTAVIPClient** means Audio/Video over IP networkd.  
+
 ## 1 H245控制信令
 H.245控制功能使用H.245控制信道来传送端到端控制消息,来管理H.323实体的运作，包括能力交换，开放和关闭逻辑信道，模式偏好请求，流量控制消息和一般命令等。H.245建议规定了许多支持端到端的独立协议实体信号。协议实体由其语法（消息），语义和一组指定指定消息交换和与用户交互的过程。 H.245消息分为四类：请求，响应，命令和指示。H.323终端应支持以下H.245协议实体的语法，语义和过程：
 - Master/slave determination. H.245主从确定模块用于解决两个端点试图打开一个双向通道时可能存在的冲突。在这个过程中，两个端点随机交换号码在H.245 masterSlaveDetermination消息中，确定主从端点。 H.323端点应能够在主模式和从模式下运行。  
@@ -43,3 +48,12 @@ H323终端完成呼叫建立之后，端点应建立H.245控制信道。H.245控
 
 ## 3 参考文献
 https://www.packetizer.com/ipmc/h323/papers/primer/#gatekeepers
+
+## 关于MTAVIPClient.git项目
+- [MTH323Client-1 H323 Protocol Overview](/doc/cn/MTH323Client/1-H323-Overview.md)
+- [MTH323Client-2 Open Source Ecology for H323 Video Conference](/doc/cn/MTH323Client/2-h323-open-source-ecology.md)
+- [MTH323Client-3 H323 Terminal](/doc/cn/MTH323Client/3-h323-device.md)
+- [MTH323Client-4 H225 Workflow for Call Signal](/doc/cn/MTH323Client/4-h225-call-signal-workflow.md)
+- [MTH323Client-5 H245 Workflow for Control Signal](/doc/cn/MTH323Client/5-h245-control-signal-workflow.md)
+- [MTH323Client-6 Design H323 Client using Open Source](/doc/cn/MTH323Client/6-design-h323-client.md)
+- [MTH323Client-7 Docking H323 Cloud Service](/doc/cn/MTH323Client/7-docking-cloud-service.md)
