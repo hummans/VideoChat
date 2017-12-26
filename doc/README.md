@@ -15,7 +15,7 @@ Wrapper for Sofia-SIP
 ### MTRTC
 Wrapper for WebRTC
 
-** about [MTAVIPClient.git](https://github.com/MTMediaDev/MTAVIPClient) project(Submodule MTH323Client)**
+### about [MTAVIPClient.git](https://github.com/MTMediaDev/MTAVIPClient) project(Submodule MTH323Client)
 - [MTH323Client-1 H323 Protocol Overview](/doc/cn/MTH323Client/1-H323-Overview.md)
 - [MTH323Client-2 Open Source Ecology for H323 Video Conference](/doc/cn/MTH323Client/2-h323-open-source-ecology.md)
 - [MTH323Client-3 H323 Terminal](/doc/cn/MTH323Client/3-h323-device.md)
@@ -24,7 +24,7 @@ Wrapper for WebRTC
 - [MTH323Client-6 Design H323 Client using Open Source](/doc/cn/MTH323Client/6-design-h323-client.md)
 - [MTH323Client-7 Docking H323 Cloud Service](/doc/cn/MTH323Client/7-docking-cloud-service.md)
 
-** about [MTAVIPClient.git](https://github.com/MTMediaDev/MTAVIPClient) project(Submodule MTSIPClient)**
+### about [MTAVIPClient.git](https://github.com/MTMediaDev/MTAVIPClient) project(Submodule MTSIPClient)
 - [SIPClient-1 SIP Protocol Overview](/doc/cn/MTSIPClient/1-SIP-Protocol-Overview.md)
 - [SIPClient-2 Open Source Ecology for SIP](/doc/cn/MTSIPClient/2-Open-Source-Ecology-for-SIP.md)
 - [SIPClient-3 SIP Terminal](/doc/cn/MTSIPClient/3-SIP-Terminal.md)
